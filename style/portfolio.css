@@ -1,0 +1,74 @@
+
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.text-primary {
+    color: #fd6a0e;
+}
+.btn-primary {
+    background-color: #fd6a0e;
+   font-weight: bold;
+   border: none;
+   color: white;
+   padding: 18px 35px;
+   border-radius: 5px;
+}
+nav {
+    display: flex; align-items: center;
+    justify-content: space-between;
+    margin: 50px 200px;
+ }
+ .nav-title {
+    font-weight: 800;
+    font-size: 45px;
+ }
+ nav ul {
+   display: flex;
+   align-items: center;
+
+ }
+ nav ul li {
+   list-style: none;
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 50px;
+ }
+ .dark-2{
+    color: #474747;
+ }
+ 
+.bannar-greetings {
+    font-size: 45px;
+  font-weight: 600;
+ }
+ .banner-title{
+    font-size: 85px;
+    font-weight: bold;
+ }
+ p{
+    font-size: small;
+ }
+ .banner-pro-pic{
+    width: 580px;
+ }
+ .banner{
+ display: flex;
+ justify-content: space-between;
+ margin: 0 35px 0 230px;
+ }
+ .banner-contant{
+    max-width: 580px;
+ }
+ .header{
+   background-image:url(../images/sunset.jpeg) ;
+   background-repeat: no-repeat;
+   background-position: top left;
+ }
+ 
+ 
+ 
